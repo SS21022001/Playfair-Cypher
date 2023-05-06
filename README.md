@@ -5,7 +5,7 @@ The Playfair cipher was the first practical digraph substitution cipher. The sch
 It was used for tactical purposes by British forces in the Second Boer War and in World War I and for the same purpose by the Australians during World War II. This was because Playfair is reasonably fast to use and requires no special equipment.
  
 
-Encryption Technique
+# Encryption Technique
 For the encryption process let us consider the following example:
 The Playfair Cipher Encryption Algorithm: 
 The Algorithm consists of 2 steps: 
@@ -35,7 +35,7 @@ AfterSplit: ‘he’ ‘lx’ ‘lo’ ‘ez’
 
 Here ‘z’  is the bogus letter.
 
-Rules for Encryption:
+# Rules for Encryption:
 If both the letters are in the same column: Take the letter below each one (going back to the top if at the bottom).
 For example: 
 Diagraph: "me"
